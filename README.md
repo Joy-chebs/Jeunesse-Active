@@ -1,4 +1,4 @@
-<h1 align="center">Home Services - Provider App</h1>
+<h1 align="center">Jeunesse-Active</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-brightgreen" alt="Platform">
   <a href="https://github.com/mohamedelareeg/HomeServices-Provider/releases">
@@ -12,7 +12,7 @@
   </a>
 </p>
 <p align="center">
-  Home Services Provider App is an Android application designed for service providers. It facilitates the acceptance of service requests, tracking progress, real-time communication with customers, and seamless registration of new providers.
+  Jeunesse active App is an Android application designed for service providers. It facilitates the acceptance of service requests, tracking progress, real-time communication with customers, and seamless registration of new providers.
 </p>
 
 ## Table of Contents
@@ -74,6 +74,3 @@ Feel free to contribute to the development of Home Services Provider App by crea
 
 This project is licensed under the MIT License.
 
-## Related Repositories
-
-- [Home Services User App](https://github.com/mohamedelareeg/HomeServices-User)
